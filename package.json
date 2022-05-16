@@ -1,0 +1,19 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "training setting",
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.22.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "transpiler"
+  ],
+  "author": "eugenia-smith",
+  "license": "ISC"
+}
